@@ -1,0 +1,20 @@
+# Global Olympic Sports Performance Analysis (1992 - 2026)
+
+## 1. Executive Summary
+This project analyzes historical Olympic performance from 1992 to 2026 across 60 countries and 50 sports. It evaluates the correlation between sports infrastructure investments, regional athlete efficiency, sport-specific yields, and host-nation advantages.
+
+## 2. Key Findings & Strategic Insights
+- **High-Yield Sports Disciplines:** Rowing (6.916 average medals per athlete) and Shooting (6.731 average medals per athlete) generate the highest return on athlete investment.
+- **Global Volume vs. Efficiency:** While the United States (735 medals) and China (696 medals) lead total volume, developing regions achieve higher capital efficiency. South America leads regional efficiency at 49.64%, followed by Europe/Asia at 45.98%.
+- **Targeted Grant Returns:** Emerging sports nations including Slovakia, Georgia, and Ethiopia demonstrate significant medal efficiency relative to gross sports budget expenditure.
+- **Host Advantage Impact:** Historical trend analysis reveals a medal award band between 305 (year 2000) and 363 (year 2020), with host nations like Japan capturing 105 medals in Tokyo.
+
+## 3. Stakeholder Alignment
+- **Ms. Priya (NOC Strategist):** Sport category prioritization and athlete quota allocation based on high-yield disciplines.
+- **Mr. Carlos (International Funding Analyst):** Efficient allocation of development grants by benchmarking capital investment against medal yields.
+- **William Robert (Broadcast Storyteller):** Historical medal swings, host dominance trajectories, and continental sports expansion narratives.
+
+## 4. Technical Deliverables & Visuals
+- **Primary Visuals:** Avg Medals per Athlete Horizontal Bar Chart, Global Performance Metrics Matrix, Investment vs Performance Bubble Chart, Regional Medal Efficiency Pie & Donut Charts, and Host Nation Comparison Bar Chart.
+- **Story Structure:** 3 interactive scenes mapped to strategic decision scenarios.
+-
